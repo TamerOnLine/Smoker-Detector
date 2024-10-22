@@ -20,7 +20,7 @@ python main.py
 Contributions are welcome! Please follow the guidelines in the contributing document.
 
 ## Contact
-For inquiries, reach out via email: tamerhamadfaour@gmail.com
+For inquiries, reach out via email: git@tameronline.com
 Connect with me on LinkedIn: [Tamer OnLine](https://www.linkedin.com/in/tameronline)
 
 ## License
